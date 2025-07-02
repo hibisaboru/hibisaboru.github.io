@@ -10,9 +10,9 @@
     <atom:link href="https://hibisaboru.com/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test Page</title>
-      <link>https://hibisaboru.com/blog/test-page/</link>
+      <link>https://hibisaboru.com/blog/_test-page/</link>
       <pubDate>Tue, 01 Jul 2025 00:00:00 +0900</pubDate>
-      <guid>https://hibisaboru.com/blog/test-page/</guid>
+      <guid>https://hibisaboru.com/blog/_test-page/</guid>
       <description>&lt;p&gt;これは表示確認用のテストページです。&lt;/p&gt;</description>
     </item>
   </channel>
