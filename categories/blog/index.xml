@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Blog on hibisaboru.com</title>
+    <link>https://hibisaboru.com/categories/blog/</link>
+    <description>Recent content in Blog on hibisaboru.com</description>
+    <image>
+      <title>hibisaboru.com</title>
+      <url>https://hibisaboru.com/images/profile.png</url>
+      <link>https://hibisaboru.com/images/profile.png</link>
+    </image>
+    <generator>Hugo -- 0.147.8</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Mon, 07 Jul 2025 21:00:00 +0900</lastBuildDate>
+    <atom:link href="https://hibisaboru.com/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ブログ運用ルールと初投稿テスト</title>
+      <link>https://hibisaboru.com/blog/2025-07-08-first-post/</link>
+      <pubDate>Mon, 07 Jul 2025 21:00:00 +0900</pubDate>
+      <guid>https://hibisaboru.com/blog/2025-07-08-first-post/</guid>
+      <description>&lt;p&gt;このブログは、技術的な備忘録や日常のメモ、旅行記などを記録する目的で開設しました。
+HugoとPaperModテーマを使って構築しており、今後はコンテンツを投稿しながら運用ルールを整えていく予定です。&lt;/p&gt;
+&lt;p&gt;この記事では、今後の運用方針や投稿ルールについて記録します。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;■ ブログ運用ルール（初版）&lt;/p&gt;
+&lt;p&gt;・投稿ディレクトリの命名は &lt;code&gt;blog/日付-タイトル&lt;/code&gt; とする（例：&lt;code&gt;blog/2025-07-08-first-post&lt;/code&gt;）&lt;br&gt;
+・URL構造は &lt;code&gt;/blog/年/月/日/タイトル/&lt;/code&gt;&lt;br&gt;
+・カテゴリは tech / travel / blog などを想定&lt;br&gt;
+・画像は記事フォルダ内に格納して同階層から参照&lt;br&gt;
+・OGP画像やSEO設定は今後導入予定&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;■ 投稿手順（暫定）&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;code&gt;hugo new&lt;/code&gt; で記事生成&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;index.md&lt;/code&gt; を編集&lt;/li&gt;
+&lt;li&gt;ローカル確認 → Git commit → push&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;p&gt;■ 今後の展望とか&lt;/p&gt;
+&lt;p&gt;・テンプレート整備&lt;br&gt;
+・OGP/SEO設定&lt;br&gt;
+・Git運用ルールの明文化&lt;br&gt;
+・カテゴリとタグの使い分けルール検討&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
