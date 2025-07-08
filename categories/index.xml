@@ -11,6 +11,14 @@
     </image>
     <generator>Hugo -- 0.147.8</generator>
     <language>ja-jp</language>
+    <lastBuildDate>Mon, 07 Jul 2025 21:00:00 +0900</lastBuildDate>
     <atom:link href="https://hibisaboru.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog</title>
+      <link>https://hibisaboru.com/categories/blog/</link>
+      <pubDate>Mon, 07 Jul 2025 21:00:00 +0900</pubDate>
+      <guid>https://hibisaboru.com/categories/blog/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
