@@ -2,16 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://hibisaboru.com/categories/blog/</loc>
-    <lastmod>2025-07-07T21:00:00+09:00</lastmod>
+    <loc>https://hibisaboru.com/diary/</loc>
+    <lastmod>2099-01-01T21:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://hibisaboru.com/</loc>
+    <lastmod>2099-01-01T21:00:00+09:00</lastmod>
   </url><url>
     <loc>https://hibisaboru.com/blog/</loc>
     <lastmod>2025-07-07T21:00:00+09:00</lastmod>
   </url><url>
-    <loc>https://hibisaboru.com/categories/</loc>
+    <loc>https://hibisaboru.com/categories/blog/</loc>
     <lastmod>2025-07-07T21:00:00+09:00</lastmod>
   </url><url>
-    <loc>https://hibisaboru.com/</loc>
+    <loc>https://hibisaboru.com/categories/</loc>
     <lastmod>2025-07-07T21:00:00+09:00</lastmod>
   </url><url>
     <loc>https://hibisaboru.com/tags/hugo/</loc>
