@@ -56,5 +56,12 @@ HugoとPaperModテーマを使って構築しており、今後はコンテン�
 &lt;li&gt;X (Twitter): &lt;a href=&#34;https://twitter.com/hibisaboru&#34;&gt;@hibisaboru&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
     </item>
+    <item>
+      <title>Diary</title>
+      <link>https://hibisaboru.com/diary/</link>
+      <pubDate>Sat, 01 Jan 2000 21:00:00 +0900</pubDate>
+      <guid>https://hibisaboru.com/diary/</guid>
+      <description>&lt;h2 id=&#34;2025714表示テスト&#34;&gt;2025/7/14：表示テスト&lt;/h2&gt;</description>
+    </item>
   </channel>
 </rss>
