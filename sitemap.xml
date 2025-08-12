@@ -2,34 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://hibisaboru.com/blog/</loc>
-    <lastmod>2025-07-07T21:00:00+09:00</lastmod>
-  </url><url>
-    <loc>https://hibisaboru.com/categories/blog/</loc>
-    <lastmod>2025-07-07T21:00:00+09:00</lastmod>
-  </url><url>
-    <loc>https://hibisaboru.com/categories/</loc>
-    <lastmod>2025-07-07T21:00:00+09:00</lastmod>
+    <loc>https://hibisaboru.com/about/</loc>
+    <lastmod>2025-07-01T00:00:00+09:00</lastmod>
   </url><url>
     <loc>https://hibisaboru.com/</loc>
-    <lastmod>2025-07-07T21:00:00+09:00</lastmod>
-  </url><url>
-    <loc>https://hibisaboru.com/tags/hugo/</loc>
-    <lastmod>2025-07-07T21:00:00+09:00</lastmod>
-  </url><url>
-    <loc>https://hibisaboru.com/tags/</loc>
-    <lastmod>2025-07-07T21:00:00+09:00</lastmod>
-  </url><url>
-    <loc>https://hibisaboru.com/blog/2025-07-08-first-post/</loc>
-    <lastmod>2025-07-07T21:00:00+09:00</lastmod>
-  </url><url>
-    <loc>https://hibisaboru.com/tags/%E5%88%9D%E6%8A%95%E7%A8%BF/</loc>
-    <lastmod>2025-07-07T21:00:00+09:00</lastmod>
-  </url><url>
-    <loc>https://hibisaboru.com/tags/%E9%81%8B%E7%94%A8%E3%83%AB%E3%83%BC%E3%83%AB/</loc>
-    <lastmod>2025-07-07T21:00:00+09:00</lastmod>
-  </url><url>
-    <loc>https://hibisaboru.com/about/</loc>
     <lastmod>2025-07-01T00:00:00+09:00</lastmod>
   </url><url>
     <loc>https://hibisaboru.com/tech/</loc>
@@ -37,6 +13,9 @@
   </url><url>
     <loc>https://hibisaboru.com/travel/</loc>
     <lastmod>2025-07-01T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://hibisaboru.com/categories/</loc>
+    <lastmod>2000-01-01T21:00:00+09:00</lastmod>
   </url><url>
     <loc>https://hibisaboru.com/categories/diary/</loc>
     <lastmod>2000-01-01T21:00:00+09:00</lastmod>
@@ -46,5 +25,10 @@
   </url><url>
     <loc>https://hibisaboru.com/tags/diary/</loc>
     <lastmod>2000-01-01T21:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://hibisaboru.com/tags/</loc>
+    <lastmod>2000-01-01T21:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://hibisaboru.com/blog/</loc>
   </url>
 </urlset>
