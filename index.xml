@@ -11,26 +11,12 @@
     </image>
     <generator>Hugo -- 0.147.8</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 14 Jul 2025 21:00:00 +0900</lastBuildDate>
     <atom:link href="https://hibisaboru.com/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About</title>
-      <link>https://hibisaboru.com/about/</link>
-      <pubDate>Tue, 01 Jul 2025 00:00:00 +0900</pubDate>
-      <guid>https://hibisaboru.com/about/</guid>
-      <description>&lt;p&gt;このブログ「hibisaboru.com」は、日記や紀行文、技術メモなどを書いています。&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;運営者：sabori&lt;/strong&gt;&lt;br&gt;
-生活 / 旅行 / DJ / システムエンジニア&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Instagram: &lt;a href=&#34;https://www.instagram.com/dj.sabori&#34;&gt;@dj.sabori&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;X (Twitter): &lt;a href=&#34;https://twitter.com/hibisaboru&#34;&gt;@hibisaboru&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
     <item>
       <title>Diary</title>
       <link>https://hibisaboru.com/diary/</link>
-      <pubDate>Sat, 01 Jan 2000 21:00:00 +0900</pubDate>
+      <pubDate>Mon, 14 Jul 2025 21:00:00 +0900</pubDate>
       <guid>https://hibisaboru.com/diary/</guid>
       <description>&lt;h4 id=&#34;2025815&#34;&gt;2025/8/15：&lt;/h4&gt;
 &lt;p&gt;　11月のウズベキスタン旅行に向けて、色々な人の旅行記を読んで情報収集をする。そのなかで、ふとインドに興味が出てきた。ウズベキスタンの冬は寒いのと天気が悪いので11月で間違いないが、インドに関しては年越し頃の気候がちょうどいいらしい。盆正月は国内旅行に向かないことをひどく痛感したので、どこか海外にぶつけられないか思案していた。だが、今となっては韓国や台湾、ベトナムはイージーすぎる。新鮮味も薄れてしまい、行ったとて気分転換程度にしかならない。インドくらい文化圏が離れていると面白そうだ。よく「インド旅行はカオスが許せるかどうか」というが、その辺をどう思うのか体験してみたい。それから、やはりベタなタージ・マハルやガンジス川の沐浴を一目見たいし、観光地が密集している北よりも南の方が穏やかそうで、そちらも興味をそそられる。今年の年末年始は連結したら最大で2週間ほど取れそうなので、インド行きは検討の余地がある。ほかの案としては、台湾一周、ベトナム縦断＋カンボジア陸路＋ラオス、等々。いずれも年末の旅券はすでに高騰し始めており、早めに動かないと何もできなくなりそうだった。&lt;/p&gt;
@@ -98,6 +84,20 @@
 &lt;p&gt;　Amazonセールで買った浄水ポットと、水ボトルが届いた。なんか最近、生活圏で水ボトルが流行っている。職場のお洒落なひとはレモンも入れてきているようで、見ていていいなと思う。今年になって行った台湾やソウルの宿でも、常設のウォーターサーバから水ボトルにいれて持っているひとがいた。いつか生活に取り込もうと決めて、満を持しての導入。ただし、ウォーターサーバは1Kの部屋に置き場がないのであきらめた。以前は烏龍茶をつくって常備していたのだが、だんだんと毎回大量に沸かしてボトルに詰め替えるのが億劫になってしまった。ティーバックを入れて冷蔵庫に放り込んでおくことさえ面倒。すべては仕事と残業のせい。単純に飽きたというのもある。しかし、浄水ポットに水道水を毎日入れるくらいはできるだろう。たぶん。水ボトルは500mlのサイズにしたが、少ないかも分からない。友達にはナルゲンボトルを薦められたが、普段使っているリュックにはやや大きすぎた。ただ、プライベートや旅行には使えそうである。調べると色々なデザインのものが売っているので、これからお気に入りを探したい。&lt;/p&gt;
 &lt;h4 id=&#34;2025714&#34;&gt;2025/7/14：&lt;/h4&gt;
 &lt;p&gt;　表示テスト&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>https://hibisaboru.com/about/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0900</pubDate>
+      <guid>https://hibisaboru.com/about/</guid>
+      <description>&lt;p&gt;このブログ「hibisaboru.com」は、日記や紀行文、技術メモなどを書いています。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;運営者：sabori&lt;/strong&gt;&lt;br&gt;
+生活 / 旅行 / DJ / システムエンジニア&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Instagram: &lt;a href=&#34;https://www.instagram.com/dj.sabori&#34;&gt;@dj.sabori&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;X (Twitter): &lt;a href=&#34;https://twitter.com/hibisaboru&#34;&gt;@hibisaboru&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>
