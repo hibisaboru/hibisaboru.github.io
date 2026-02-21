@@ -40,7 +40,7 @@
 「安いし、もう一回乗っとく？」
 　オーナーに訊かれ、間抜けに「ええ」と返した。一万ドン、日本円でおよそ五〇円。確かに安いが。
 　茫然と他の人がダチョウに乗るのを眺めていた。ホーチミンの三月は真夏で、その日は三〇度を優に超えていた。昨夜の残り酒とランチの追い酒でハイになっていた時間も過ぎて、真っ当な疲れも感じ始めていた。喉の奥がへばりつくような感じがして、ふらふらと近くの売店に歩いて飲み物を買った。適当に選んだココナツの缶ジュースはとてつもなく甘く、そう味覚が判断していることに少しだけほっとした。">
-<meta name="author" content="">
+<meta name="author" content="sabori">
 <link rel="canonical" href="https://hibisaboru.com/blog/2019-06-01/">
 <link crossorigin="anonymous" href="https://hibisaboru.com/assets/css/stylesheet.css" rel="preload stylesheet" as="style">
 <link rel="icon" href="https://hibisaboru.com/favicon.ico">
@@ -211,6 +211,10 @@
   "inLanguage": "en",
   "image": "https://hibisaboru.com/images/profile.png","datePublished": "2019-06-01T21:00:00+09:00",
   "dateModified": "2019-06-01T21:00:00+09:00",
+  "author":{
+    "@type": "Person",
+    "name": "sabori"
+  },
   "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "https://hibisaboru.com/blog/2019-06-01/"
@@ -308,7 +312,7 @@
     <h1 class="post-title entry-hint-parent">
       チョコボに乗りたい
     </h1>
-    <div class="post-meta"><span title='2019-06-01 21:00:00 +0900 JST'>June 1, 2019</span>&nbsp;·&nbsp;1 min
+    <div class="post-meta"><span title='2019-06-01 21:00:00 +0900 JST'>June 1, 2019</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;sabori
 
 </div>
   </header> 
@@ -432,123 +436,9 @@
   </footer>
 </article>
     </main>
-    
-<footer class="footer">
-        <span>&copy; 2026 <a href="https://hibisaboru.com/">hibisaboru.com</a></span> · 
-
-    <span>
-        Powered by
-        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
-        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
-    </span>
-</footer>
-<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
-        <path d="M12 6H0l6-6z" />
-    </svg>
-</a>
-
-<script>
-    let menu = document.getElementById('menu')
-    if (menu) {
-        menu.scrollLeft = localStorage.getItem("menu-scroll-position");
-        menu.onscroll = function () {
-            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
-        }
-    }
-
-    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
-        anchor.addEventListener("click", function (e) {
-            e.preventDefault();
-            var id = this.getAttribute("href").substr(1);
-            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
-                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
-                    behavior: "smooth"
-                });
-            } else {
-                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
-            }
-            if (id === "top") {
-                history.replaceState(null, null, " ");
-            } else {
-                history.pushState(null, null, `#${id}`);
-            }
-        });
-    });
-
-</script>
-<script>
-    var mybutton = document.getElementById("top-link");
-    window.onscroll = function () {
-        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
-            mybutton.style.visibility = "visible";
-            mybutton.style.opacity = "1";
-        } else {
-            mybutton.style.visibility = "hidden";
-            mybutton.style.opacity = "0";
-        }
-    };
-
-</script>
-<script>
-    document.getElementById("theme-toggle").addEventListener("click", () => {
-        if (document.body.className.includes("dark")) {
-            document.body.classList.remove('dark');
-            localStorage.setItem("pref-theme", 'light');
-        } else {
-            document.body.classList.add('dark');
-            localStorage.setItem("pref-theme", 'dark');
-        }
-    })
-
-</script>
-<script>
-    document.querySelectorAll('pre > code').forEach((codeblock) => {
-        const container = codeblock.parentNode.parentNode;
-
-        const copybutton = document.createElement('button');
-        copybutton.classList.add('copy-code');
-        copybutton.innerHTML = 'copy';
-
-        function copyingDone() {
-            copybutton.innerHTML = 'copied!';
-            setTimeout(() => {
-                copybutton.innerHTML = 'copy';
-            }, 2000);
-        }
-
-        copybutton.addEventListener('click', (cb) => {
-            if ('clipboard' in navigator) {
-                navigator.clipboard.writeText(codeblock.textContent);
-                copyingDone();
-                return;
-            }
-
-            const range = document.createRange();
-            range.selectNodeContents(codeblock);
-            const selection = window.getSelection();
-            selection.removeAllRanges();
-            selection.addRange(range);
-            try {
-                document.execCommand('copy');
-                copyingDone();
-            } catch (e) { };
-            selection.removeRange(range);
-        });
-
-        if (container.classList.contains("highlight")) {
-            container.appendChild(copybutton);
-        } else if (container.parentNode.firstChild == container) {
-            
-        } else if (codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName == "TABLE") {
-            
-            codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(copybutton);
-        } else {
-            
-            codeblock.parentNode.appendChild(copybutton);
-        }
-    });
-</script>
-</body>
+    <footer class="footer">
+  <p>© 2025 sabori / <a href="https://hibisaboru.com">hibisaboru.com</a></p>
+  <p><small>Built with Hugo & PaperMod</small></p>
+</footer></body>
 
 </html>
