@@ -9,7 +9,7 @@
       <url>http://localhost:1313/images/profile.png</url>
       <link>http://localhost:1313/images/profile.png</link>
     </image>
-    <generator>Hugo -- 0.156.0</generator>
+    <generator>Hugo -- 0.160.1</generator>
     <language>ja-jp</language>
     <lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/tech/index.xml" rel="self" type="application/rss+xml" />
