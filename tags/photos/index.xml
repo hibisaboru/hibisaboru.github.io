@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Photos on hibisaboru.com</title>
+    <link>https://hibisaboru.com/tags/photos/</link>
+    <description>Recent content in Photos on hibisaboru.com</description>
+    <image>
+      <title>hibisaboru.com</title>
+      <url>https://hibisaboru.com/images/profile.png</url>
+      <link>https://hibisaboru.com/images/profile.png</link>
+    </image>
+    <generator>Hugo -- 0.160.1</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Sat, 27 Jun 2026 21:00:00 +0900</lastBuildDate>
+    <atom:link href="https://hibisaboru.com/tags/photos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Photos</title>
+      <link>https://hibisaboru.com/photos/2026-06-27/</link>
+      <pubDate>Sat, 27 Jun 2026 21:00:00 +0900</pubDate>
+      <guid>https://hibisaboru.com/photos/2026-06-27/</guid>
+      <description>&lt;h4 id=&#34;20260627&#34;&gt;2026/06/27：&lt;/h4&gt;
+&lt;p&gt;&lt;img alt=&#34;犬&#34; loading=&#34;lazy&#34; src=&#34;https://hibisaboru.com/images/photos/2026-06-27/dog.jpg&#34;&gt;
+&lt;img alt=&#34;直角カーブ&#34; loading=&#34;lazy&#34; src=&#34;https://hibisaboru.com/images/photos/2026-06-27/keishin-curve.jpg&#34;&gt;
+&lt;img alt=&#34;橋の下&#34; loading=&#34;lazy&#34; src=&#34;https://hibisaboru.com/images/photos/2026-06-27/under_the_bridge.jpg&#34;&gt;
+&lt;img alt=&#34;橋の下2&#34; loading=&#34;lazy&#34; src=&#34;https://hibisaboru.com/images/photos/2026-06-27/under_the_bridge2.jpg&#34;&gt;
+&lt;img alt=&#34;橋の下3&#34; loading=&#34;lazy&#34; src=&#34;https://hibisaboru.com/images/photos/2026-06-27/under_the_bridge3.jpg&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
